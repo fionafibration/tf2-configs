@@ -8,13 +8,13 @@ Scheme
 		
 		"Health Numbers"									"255 255 255 255"
 
-		"Health Buff"										"0 0 0 255"
-		"Health Buff Target"								"255 255 255 255"
+		"Health Buff"										"0 150 255 255"
+		"Health Buff Target"								"0 150 255 255"
 		"Health Buff Spec"									"0 150 255 255"
-		"Health Buff Killer"								"0 165 255 255"
+		"Health Buff Killer"								"0 150 255 255"
 		
-		"Health Hurt"										"0 0 0 255"
-		"Health Hurt Target"								"255 255 255 255"
+		"Health Hurt"										"255 0 0 255"
+		"Health Hurt Target"								"255 0 0 255"
 		"Health Hurt Spec"									"255 0 0 255"
 		"Health Hurt Killer"								"255 0 0 255"
 		
@@ -27,9 +27,9 @@ Scheme
 		"Ammo No Clip Low"									"255 0 0 255"
 
 		"Ubercharge"										"255 255 255 255"
-		"Ubercharge Full"									"0 165 255 255"
+		"Ubercharge Full"									"0 150 255 255"
 		
-		"Extra Shadow"										"0 0 0 0"
+		"Extra Shadow"										"0 0 0 255"
 
 		"Heal Numbers"										"0 255 0 255"
 		"Last Damage Done"									"255 255 255 255"
@@ -40,8 +40,6 @@ Scheme
 		///////////////////////////////////////////////////////////////////////////////
 		//////////////////////////////// MENU COLORS //////////////////////////////////
 		///////////////////////////////////////////////////////////////////////////////
-		
-		"Main Theme"										"0 165 255 255"
 		
 		"White"												"255 255 255 255"
 		"WhiteDark"											"160 160 160 255"
