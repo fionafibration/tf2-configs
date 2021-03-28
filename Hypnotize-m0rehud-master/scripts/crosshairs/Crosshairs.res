@@ -1,17 +1,24 @@
 "Resource/HudLayout.res"
 {
+	//====================================================================================
+	// HUD CROSSHAIR
+	//====================================================================================
+	// Change the "visible" value to "1" in order to activate the hud crosshair
+	// Change "labelText" to the corresponding crosshair in crosshairs.png
+	// Change the size to any number between 10 and 30
+	//====================================================================================
+
 	"CustomCrosshair"
 	{
-		"visible"	"1"
-		"ControlName" "ImagePanel"
-		"fieldName" "CustomCrosshair"
-		"wide" "24"
-		"tall" "24"
+		"visible"	"0"																																																																			"ControlName" "CExLabel" "fieldName" "CustomCrosshair" "enabled" "1" "zpos" "0" "wide" "f0" "tall" "f0" "textAlignment" "center"
+		
+		"labelText"	"?"
+		
+		"font"		"Size:18 | Outline:OFF"
+		
 		"xpos"		"cs-0.5"
 		"ypos"		"cs-0.5"
 		
-		"image"	    "replay/thumbnails/crosshair/thincross"
-		"drawColor" "0 255 0 255"
+		"fgcolor"	"255 255 255 255"
 	}
-
 }
