@@ -11,8 +11,8 @@
 	
 	xPos				cs-0.5+0
 	yPos				cs-0.5+0
-	wide				24
-	tall				24
+	wide				28
+	tall				28
 	
 	image				"replay/thumbnails/bigcrosshair7"
 	drawColor			"0 255 0 255"
