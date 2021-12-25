@@ -10,6 +10,7 @@ Current Options:
 "no weapon gibs" 
 "empty surface properties (no footsteps)" 
 "no soundscapes" 
+"no pyrovision textures" 
 soundscapes_manifest
 {
 }"default"
