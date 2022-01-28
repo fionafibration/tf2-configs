@@ -14,8 +14,8 @@
 	wide				20
 	tall				20
 	
-	image				"replay/thumbnails/bigcrosshair7OL"
-	drawColor			"0 255 0 255"
+	image				"replay/thumbnails/thalashseeker"
+	drawColor			"255 255 255 255"
 }
 
 // KnucklesCrosses version
