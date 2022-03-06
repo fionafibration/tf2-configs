@@ -9,8 +9,8 @@
 		"PositiveColor"			"Heal Numbers"
 		"NegativeColor"			"Damage Numbers"
 		"delta_lifetime"		"1.33"
-		"delta_item_font"		"HudFontMedium"
-		"delta_item_font_big"	"HudFontMedium"
+		"delta_item_font"		"surface20outline"
+		"delta_item_font_big"	"surface20outline"
 	}
 	
 	"DamageAccountValue"
@@ -27,7 +27,7 @@
 		"labelText"				"%metal%"
 		"textAlignment"			"center"
 		"fgcolor"				"Last Damage done"
-		"font"					"HudFontMedium"
+		"font"					"surface20"
 	}
 	
 	"DamageAccountValueBG"
@@ -44,6 +44,6 @@
 		"labelText"				"%metal%"
 		"textAlignment"			"center"
 		"fgcolor"				"0 0 0 255"
-		"font"					"HudFontMedium"
+		"font"					"surface20"
 	}
 }
