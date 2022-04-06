@@ -1,0 +1,8 @@
+hudanimations_manifest
+{
+	"file" "scripts/hudanimations.txt"
+	"file" "scripts/hudanimations_arekk.txt"
+	"file" "scripts/hudanimations_tf.txt"
+}
+
+
