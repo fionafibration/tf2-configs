@@ -1,3 +1,0 @@
-"PlayerStatusClassImageBGFlame"
-"PlayerStatusClassImageBG2Flame"
-this is the outline for the hud(red,blue)

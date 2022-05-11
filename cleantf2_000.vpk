@@ -1,4 +1,6 @@
-Generated with CleanTF2+
+VisionFilterShadersMapWhitelist
+{
+}Generated with CleanTF2+
 https://github.com/JarateKing/CleanTF2plus
 
 Current Options:
@@ -6,3 +8,8 @@ Current Options:
 "no player gibs" 
 "no shells" 
 "no weapon gibs" 
+"no soundscapes" 
+"no pyrovision textures" 
+soundscapes_manifest
+{
+}

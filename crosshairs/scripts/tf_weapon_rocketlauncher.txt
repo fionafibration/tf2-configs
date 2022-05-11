@@ -31,10 +31,11 @@ WeaponData
 	"bucket"		"0"
 	"bucket_position"	"0"	
 
-	"ExplosionEffect"		"electrocuted_red_flash"
-	"ExplosionPlayerEffect"		"electrocuted_blue_flash"
-	"ExplosionWaterEffect"		"electrocuted_red_flash"
-	"ExplosionSound"		"BaseExplosionEffect.Sound"
+	"ExplosionEffect"		"ExplosionCore_wall"
+	"ExplosionPlayerEffect"		"ExplosionCore_MidAir"
+	"ExplosionWaterEffect"		"ExplosionCore_MidAir_underwater"
+
+	"ExplosionSound"	"BaseExplosionEffect.Sound"
 
 	// Animation.
 	//"viewmodel"     -viewmodel is now defined in _items_main.txt
@@ -79,7 +80,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/bigcrosshair7"
+				"file"		"vgui/replay/thumbnails/thalashseeker"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
