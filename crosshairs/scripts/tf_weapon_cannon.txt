@@ -32,10 +32,9 @@ WeaponData
 	"bucket_position"	"0"
 	
 	"ExplosionSound"	"Weapon_LooseCannon.Explode"
-	"ExplosionEffect"	"ExplosionCore_wall"
-	"ExplosionPlayerEffect"	"ExplosionCore_MidAir"
-	"ExplosionWaterEffect"	"ExplosionCore_MidAir_underwater"
-
+	"ExplosionEffect"		"electrocuted_red_flash"
+	"ExplosionPlayerEffect"		"electrocuted_blue_flash"
+	"ExplosionWaterEffect"		"electrocuted_red_flash"
 
 	// Animation.
 	"viewmodel"		"models/weapons/v_models/v_grenadelauncher_demo.mdl"

@@ -31,9 +31,9 @@ WeaponData
 	"bucket"		"0"
 	"bucket_position"	"0"	
 
-	"ExplosionEffect"		"ExplosionCore_wall"
-	"ExplosionPlayerEffect"		"ExplosionCore_MidAir"
-	"ExplosionWaterEffect"		"ExplosionCore_MidAir_underwater"
+	"ExplosionEffect"		"electrocuted_red_flash"
+	"ExplosionPlayerEffect"		"electrocuted_blue_flash"
+	"ExplosionWaterEffect"		"electrocuted_red_flash"
 
 	"ExplosionSound"	"BaseExplosionEffect.Sound"
 
