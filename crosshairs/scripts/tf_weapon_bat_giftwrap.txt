@@ -68,7 +68,7 @@ WeaponData
 
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/crosshair7OL"
+				"file"		"vgui/replay/thumbnails/thalashseeker"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
