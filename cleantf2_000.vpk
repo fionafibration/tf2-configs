@@ -1,6 +1,11 @@
-Generated with CleanTF2+
+VisionFilterShadersMapWhitelist
+{
+}Generated with CleanTF2+
 https://github.com/JarateKing/CleanTF2plus
 
 Current Options:
 "nohats headsfeet" 
 "no player gibs" 
+"no shells" 
+"no weapon gibs" 
+"no pyrovision textures" 
