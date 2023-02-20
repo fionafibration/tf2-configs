@@ -11,8 +11,8 @@
 	
 	xPos				cs-0.5+0
 	yPos				cs-0.5+0
-	wide				18
-	tall				18
+	wide				22
+	tall				22
 	
 	image				"replay/thumbnails/thalashseeker"
 	drawColor			"255 255 255 255"
